@@ -5,7 +5,7 @@ import GoogleLogin from 'react-google-login';
 import { connect } from 'react-redux';
 import { withRouter } from 'react-router';
 
-import * as BForm from 'react-bootstrap/Form';
+import BForm from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
