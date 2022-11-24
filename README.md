@@ -1,5 +1,8 @@
 # Eshop page
 
+安装出现问题解决：node 版本退回到16
+关于eslint 的问题，使用yarn 替换 npm install
+
 Simple ecommerce website made with React Hooks and Redux.
 
 ## Demo and Codesandbox
